@@ -1,16 +1,20 @@
-## Hi there 👋
+<img src="./source/ya.png">
 
-<!--
-**kLarss993/kLarss993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# How are you today? I'm Tymur/klarss9
+ Juniour FullStack developer
+===========================
 
-Here are some ideas to get you started:
+<img src="source/py.png">
+<img src="source/html.png">
+<img src="source/css.png">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## More about me
+
+- 🌱 I’m currently learning [python flask](https://flask.palletsprojects.com/en/stable/)
+
+- 🤔 I’m looking for help with [learning](https://t.me/klarss9)
+
+- 💬 Ask me about [something](https://timurandriuca6@gmail.com)
+
+- 📫 How to reach me: [telegram](https://t.me/klarss9)/[email](https://timurandriuca6@gmail.com)
+

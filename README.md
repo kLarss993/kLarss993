@@ -1,7 +1,6 @@
 <img src="./source/ya.png">
 
-# I'm Tymur/klarss9
- Juniour BackEnd developer
+# I'm Juniour BackEnd developer
 ===========================
 
 <img src="source/py.png"><img src="source/css.png"><img src="source/html.png">

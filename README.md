@@ -1,7 +1,7 @@
 <img src="./source/ya.png">
 
 # How are you today? I'm Tymur/klarss9
- Juniour FullStack developer
+ Juniour BackEnd developer
 ===========================
 
 <img src="source/py.png"><img src="source/css.png"><img src="source/html.png">

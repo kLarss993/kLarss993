@@ -1,6 +1,6 @@
 <img src="./source/ya.png">
 
-# How are you today? I'm Tymur/klarss9
+# I'm Tymur/klarss9
  Juniour BackEnd developer
 ===========================
 

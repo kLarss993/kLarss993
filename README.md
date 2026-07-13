@@ -5,7 +5,7 @@
 
 ## More about me
 
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Django
 
 - 🤔 I’m looking for help with [learning](https://t.me/klarss9)
 

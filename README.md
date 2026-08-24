@@ -1,7 +1,6 @@
 <img src="./source/ya.png">
 
 
-<img src="source/py.png"><img src="source/css.png"><img src="source/html.png">
 
 ## More about me
 
